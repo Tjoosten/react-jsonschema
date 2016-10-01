@@ -1,6 +1,7 @@
 # React JSONSchema
 
 [![Build Status](https://travis-ci.org/vutran/react-jsonschema.svg?branch=develop)](https://travis-ci.org/vutran/react-jsonschema) [![Coverage Status](https://coveralls.io/repos/github/vutran/react-jsonschema/badge.svg?branch=develop)](https://coveralls.io/github/vutran/react-jsonschema?branch=develop)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 > Create beautiful forms with [JSONSchema](http://json-schema.org)
 > Inspired by [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) from Mozilla.
